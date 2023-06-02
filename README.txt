@@ -22,7 +22,7 @@ and re-plan to take into consideration the new information.
 
 Baby Shark was solved using Deep Reinforcement Learning via the Proximal Policy Optimisation Algorithm and Behavioral Cloning.
 
-### Root Folder 
+-- Root Folder --
 
 --Gamefiles
 

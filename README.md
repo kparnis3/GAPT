@@ -22,13 +22,13 @@ and re-plan to take into consideration the new information.
 
 Baby Shark was solved using Deep Reinforcement Learning via the Proximal Policy Optimisation Algorithm and Behavioral Cloning.
 
--- Root Folder --
+## Root Folder 
 
---Gamefiles
+- Gamefiles
 
--Contains Scripts, Audio Files, models.. etc (A README can be found within this folder for further guidance).
+- Contains Scripts, Audio Files, models.. etc (A README can be found within this folder for further guidance).
 
---GameExecutables
+- GameExecutables
 
--Contains two build versions of the final game, (IM -> Imitation Learning, PPO -> Proximal Policy Optimization).
+- Contains two build versions of the final game, (IM -> Imitation Learning, PPO -> Proximal Policy Optimization).
 	  (Simply click the .exe file to launch the game!)

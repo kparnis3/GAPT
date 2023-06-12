@@ -22,6 +22,14 @@ and re-plan to take into consideration the new information.
 
 Baby Shark was solved using Deep Reinforcement Learning via the Proximal Policy Optimisation Algorithm and Behavioral Cloning.
 
+## Demo - Proximal Policy Optimization
+
+https://github.com/kparnis3/GAPT/assets/81303628/ed96f12e-7ae7-449b-bd48-f68910aed21f
+
+## Demo - Imitation learning
+
+https://github.com/kparnis3/GAPT/assets/81303628/f3b4daba-788b-42f2-9046-a6efffeb2433
+
 ## Root Folder 
 
 - Gamefiles
@@ -32,3 +40,7 @@ Baby Shark was solved using Deep Reinforcement Learning via the Proximal Policy 
 
 - Contains two build versions of the final game, (IM -> Imitation Learning, PPO -> Proximal Policy Optimization).
 	  (Simply click the .exe file to launch the game!)
+
+
+
+

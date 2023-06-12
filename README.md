@@ -1,4 +1,4 @@
-Desciption of the task:
+## Desciption of the task:
 
 A simple game-like interface where a baby shark finds its way through obstacles and navigates
 automatically to capture fish placed by the user. A small AI engine needs to be implemented
